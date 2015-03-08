@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome">EXPLICIT Intent Example</string>
+    <string name="app_name">EXPLICIT Intent Example</string>
+    <string name="invokenext">Invoke next Activity using EXPLICIT Intent...</string>
+    <string name="secondactivity">Activity invoked using EXPLICIT Intent. Click to return to INVOKING activity!</string>
+</resources>
