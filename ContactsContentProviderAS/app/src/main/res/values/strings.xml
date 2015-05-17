@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title">Contacts Content Provider</string>
+    <string name="app_name">Contacts Content Provider</string>
+    <string name="viewBtn">View Contacts</string>
+    <string name="createBtn">Create Contact</string>
+    <string name="updateBtn">Update Contact</string>
+    <string name="deleteBtn">Delete Contact</string>
+    <string name="name">Name</string>
+    <string name="phoneNumber">Phone #</string>
+    
+
+</resources>
