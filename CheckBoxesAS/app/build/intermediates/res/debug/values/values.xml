@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/android-course-examples/CheckBoxesAS/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">CheckBox</string>
+    <string name="checked">CheckBox: checked</string>
+    <string name="unchecked">CheckBox: unchecked</string>
+</resources>
