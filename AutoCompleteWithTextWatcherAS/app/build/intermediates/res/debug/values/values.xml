@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/C:/sodep-luna/AutoCompleteWithTextWatcherAS/app/src/main/res/values/strings.xml -->
+    <!-- From: file:/C:/android-juarezjunior-github/android-courses-examples/AutoCompleteWithTextWatcherAS/app/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">AutoCompleteWithTextWatcher</string>
     <string name="hello">AutoCompleteWithTextWatcher</string>
