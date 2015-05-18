@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">SimpleEditTextActivity</string>
+	<string name="simple_edit_text">Simple Edit Text...</string>
+
+</resources>
