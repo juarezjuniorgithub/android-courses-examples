@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\android-course-examples\HandlerAndProgressBarAS\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-a22c0f82dd3cd2e296e0f724b466cb05c2a80ae8.jar" />
+    </item>
+    <item
+        jar="C:\android-course-examples\HandlerAndProgressBarAS\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\classes.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="C:\android-course-examples\HandlerAndProgressBarAS\app\build\intermediates\pre-dexed\debug\classes-adfe8ec6461f9c19c1f64d38051d8fa48bcb3f0e.jar" />
+    </item>
+
+</items>
