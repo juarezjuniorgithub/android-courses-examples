@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/android-juarezjunior-github/android-courses-examples/TextView/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Text View</string>
+    <string name="label">This is a simple TextView</string>
+</resources>
