@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/android-juarezjunior-github/android-courses-examples/android-courses-examples/RadioButtonAS/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Radio Button</string>
+    <string name="maybe">Maybe</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
