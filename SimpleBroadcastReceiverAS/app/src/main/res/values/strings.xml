@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <string name="app_name">Simple Broadcast Receiver</string>
-    <string name="send_brd_message">Send Broadcast Message</string>
-
-</resources>
