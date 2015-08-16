@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="type_your_name">Type your name</string>
+    <string name="save">Save</string>
+    <string name="welcome_message">Shared Preferences</string>
+    <string name="add_name">Add Name</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Shared Preferences Activity</string>
+</resources>
