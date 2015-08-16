@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/android-juarezjunior-github/android-courses-examples/android-courses-examples/TabsWithFragmentsAS/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="app_name">Tabs with Fragments</string>
+    <string name="blue">Blue</string>
+    <string name="green">Green</string>
+    <string name="red">Red</string>
+</resources>

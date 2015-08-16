@@ -33,11 +33,11 @@ public class SharedPrefsActivity extends Activity {
 		Button addNameButton = (Button) findViewById(R.id.add_name_button);
 		
 		if (username != null) {
-			message.setText("Oi " + username + "!");
-			addNameButton.setText("Alterar nome");
+			message.setText("Hi " + username + "!");
+			addNameButton.setText("Change name");
 		} else {
-			message.setText("Você ainda não salvou seu nome...");
-			addNameButton.setText("Adicionar nome");
+			message.setText("You have not saved your name!");
+			addNameButton.setText("Add Name");
 		}
 		
 		addNameButton.setOnClickListener(new OnClickListener() {
