@@ -2,11 +2,31 @@
 <items version="2" >
 
     <item
-        jar="C:\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
-        revision="21.1.2"
+        is-multidex="true"
+        jar="C:\Users\IBM_ADMIN\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\android-juarezjunior-github\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-e849bc26d4efd9b7f86fe2f331ebd71618a3b224.jar" />
+        <dex dex="C:\eclipse-pocs-workspace\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_40c8eb8a2ed1263eae349b7a44fff72191855474\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eclipse-pocs-workspace\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\eclipse-pocs-workspace\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_ed996bcd343cb3fe3e9f9edcae937cf40d274ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\eclipse-pocs-workspace\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="82f44e85cb1572aa7af9b03d7bade3190228f71b">
+        <dex dex="C:\eclipse-pocs-workspace\android-courses-examples\ActivityLifeCycleAS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e3db101426027e4a442e896b3096f60500de70d5\classes.dex" />
     </item>
 
 </items>

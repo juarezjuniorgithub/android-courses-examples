@@ -27,29 +27,29 @@ public final class R {
         public static final int cycle=0x7f070000;
     }
     public static final class string {
-        public static final int action_settings=0x7f050000;
-        public static final int app_name=0x7f050001;
-        public static final int hello_world=0x7f050002;
-        public static final int on_create=0x7f050003;
-        public static final int on_destroy=0x7f050004;
-        public static final int on_pause=0x7f050005;
-        public static final int on_restart=0x7f050006;
-        public static final int on_resume=0x7f050007;
-        public static final int on_start=0x7f050008;
-        public static final int on_stop=0x7f050009;
+        public static final int action_settings=0x7f060000;
+        public static final int app_name=0x7f060001;
+        public static final int hello_world=0x7f060002;
+        public static final int on_create=0x7f060003;
+        public static final int on_destroy=0x7f060004;
+        public static final int on_pause=0x7f060005;
+        public static final int on_restart=0x7f060006;
+        public static final int on_resume=0x7f060007;
+        public static final int on_start=0x7f060008;
+        public static final int on_stop=0x7f060009;
     }
     public static final class style {
-        /** 
+        /**  API 11 theme customizations can go here. 
+ API 14 theme customizations can go here. 
+
             Theme customizations available in newer API levels can go in
             res/values-vXX/styles.xml, while customizations related to
             backward-compatibility can go here.
         
- API 11 theme customizations can go here. 
- API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f050000;
         /**  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f050001;
     }
 }
