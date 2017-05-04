@@ -1,7 +1,5 @@
 package com.juarezjunior.lifecycle;
 
-import com.juarezjunior.lifecycle.R;
-
 import android.app.Activity;
 import android.os.Bundle;
 import android.util.Log;
